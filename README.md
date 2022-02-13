@@ -17,3 +17,6 @@ Notes to take care of:
 -Don't use more sourcing current than provided by the board to avoid damge
 
 - If the code takes more than 128k flash use STM32F4 microcontrollers
+
+
+Add ros_lib folder to the Arduino libraries to make Ros libraries and header files work with your code without any compilation issues
